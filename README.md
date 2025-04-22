@@ -1,6 +1,6 @@
 # 🍔 Hamburger Menu React App
 
-A responsive React application demonstrating a modern hamburger menu for navigation. The app features a clean header with a hamburger icon that opens a popup menu, allowing users to navigate between **Home** and **About** pages. This project showcases best practices in component-based architecture, routing, and responsive UI design.
+A responsive React application demonstrating a modern hamburger menu for navigation. The app features a clean header with a hamburger icon that opens a popup menu, allowing users to navigate between pages seamlessly.
 
 ---
 
@@ -19,11 +19,19 @@ A responsive React application demonstrating a modern hamburger menu for navigat
 
 ### Main Layout
 
-![App Layout](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-output-v0.gif
+![App Layout](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-output-v0.gif)
 
-![About Page Example](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-aboutp Menu
+### About Page Example
 
-![Popup Menu Example](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-popup️ Project Structure
+![About Page Example](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-about-lg-output.png)
+
+### Popup Menu Example
+
+![Popup Menu Example](https://assets.ccbp.in/frontend/content/react-js/hamburger-menu-popup-lg-output.png)
+
+---
+
+## 📂 Project Structure
 
 ```
 src/
@@ -49,13 +57,13 @@ src/
 
 1. **Install dependencies:**
 
-   ```
+   ```bash
    npm install
    ```
 
 2. **Start the app:**
 
-   ```
+   ```bash
    npm start
    ```
 
@@ -95,11 +103,16 @@ src/
 
 ## 📦 Resources
 
-- **Logo:**  
-  ![Website Logo](https://assets.ccbp.in/frontend/react-js/hamburger-menu-websiHome Image:**  
-  ![Home](https://assets.ccbp.in/frontend/react-js/homeAbout Image:**  
-  ![About](https://assets.ccbp.in/frontend/react-js/abouNot Found Image:\*\*  
-  ![Not Found](https://assets.ccbp.in/frontend/react-js/not-found Customization
+- **Logo**:  
+  ![Website Logo](https://assets.ccbp.in/frontend/react-js/hamburger-menu-website-logo.png)
+- **Home Image**:  
+  ![Home](https://assets.ccbp.in/frontend/react-js/home-lg-img.png)
+- **About Image**:  
+  ![About](https://assets.ccbp.in/frontend/react-js/about-lg-img.png)
+- **Not Found Image**:  
+  ![Not Found](https://assets.ccbp.in/frontend/react-js/not-found-img.png)
+
+### Customization
 
 - **Colors:**
   - Light Gray: `#dcdcdc`
@@ -117,3 +130,4 @@ This project is for educational and demonstration purposes.
 ---
 
 **Enjoy using and learning from this Hamburger Menu React app!**
+
